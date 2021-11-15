@@ -2,7 +2,7 @@
 - 👀 I’m interested in Data Science 
 - 🌱 I’m currently learning Deep Learning
 - 💞️ I’m looking to collaborate on 
-- 📫 How to reach me pavanchetan81@gmail.com
+- 📫 How to reach me ...
 
 <!---
 Bumpeet/Bumpeet is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
