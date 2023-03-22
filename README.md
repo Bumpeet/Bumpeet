@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @Bumpeet
-- 👀 I’m interested in Data Science 
-- 🌱 I’m currently learning Deep Learning
+- 👀 I’m interested in Deep Learning, Chemical Engineering and movies
+- 🌱 I’m currently working as a Deep Learning Engineer
 - 💞️ I’m looking to collaborate on 
-- 📫 How to reach me ...
+- 📫 pavanchetan81@gmail.com
 
 <!---
 Bumpeet/Bumpeet is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
